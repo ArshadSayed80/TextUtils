@@ -1,6 +1,6 @@
 # **TextUtils**
 
-### **A Django website to analyse text in backend** \
+### **A Django website to analyse text in backend** 
 This is a website that will analyze the text data and perform following actions:
 ```
 1> Remove Punctuations if Any
